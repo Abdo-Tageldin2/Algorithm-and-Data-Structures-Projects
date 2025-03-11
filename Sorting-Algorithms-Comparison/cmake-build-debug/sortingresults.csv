@@ -1,0 +1,361 @@
+Test Type,Array Size,Algorithm,Comparisons,Time (ns)
+Random Array,1,Heap Sort,0,84
+Random Array,1,Bubble Sort,0,42
+Random Array,1,Selection Sort,0,0
+Random Array,1,Insertion Sort,0,42
+Sorted Array,1,Heap Sort,0,0
+Sorted Array,1,Bubble Sort,0,42
+Sorted Array,1,Selection Sort,0,42
+Sorted Array,1,Insertion Sort,0,42
+Inverse Sorted Array,1,Heap Sort,0,0
+Inverse Sorted Array,1,Bubble Sort,0,42
+Inverse Sorted Array,1,Selection Sort,0,0
+Inverse Sorted Array,1,Insertion Sort,0,0
+Random Array,2,Heap Sort,1,125
+Random Array,2,Bubble Sort,1,83
+Random Array,2,Selection Sort,1,83
+Random Array,2,Insertion Sort,1,84
+Sorted Array,2,Heap Sort,1,42
+Sorted Array,2,Bubble Sort,1,0
+Sorted Array,2,Selection Sort,1,41
+Sorted Array,2,Insertion Sort,1,42
+Inverse Sorted Array,2,Heap Sort,1,42
+Inverse Sorted Array,2,Bubble Sort,1,41
+Inverse Sorted Array,2,Selection Sort,1,42
+Inverse Sorted Array,2,Insertion Sort,1,0
+Random Array,3,Heap Sort,3,125
+Random Array,3,Bubble Sort,3,41
+Random Array,3,Selection Sort,3,41
+Random Array,3,Insertion Sort,3,84
+Sorted Array,3,Heap Sort,3,125
+Sorted Array,3,Bubble Sort,3,83
+Sorted Array,3,Selection Sort,3,84
+Sorted Array,3,Insertion Sort,2,42
+Inverse Sorted Array,3,Heap Sort,3,83
+Inverse Sorted Array,3,Bubble Sort,3,41
+Inverse Sorted Array,3,Selection Sort,3,42
+Inverse Sorted Array,3,Insertion Sort,3,0
+Random Array,4,Heap Sort,7,167
+Random Array,4,Bubble Sort,6,125
+Random Array,4,Selection Sort,6,84
+Random Array,4,Insertion Sort,5,83
+Sorted Array,4,Heap Sort,6,125
+Sorted Array,4,Bubble Sort,6,125
+Sorted Array,4,Selection Sort,6,125
+Sorted Array,4,Insertion Sort,3,42
+Inverse Sorted Array,4,Heap Sort,7,83
+Inverse Sorted Array,4,Bubble Sort,6,125
+Inverse Sorted Array,4,Selection Sort,6,83
+Inverse Sorted Array,4,Insertion Sort,6,84
+Random Array,5,Heap Sort,9,209
+Random Array,5,Bubble Sort,10,125
+Random Array,5,Selection Sort,10,125
+Random Array,5,Insertion Sort,7,84
+Sorted Array,5,Heap Sort,10,209
+Sorted Array,5,Bubble Sort,10,83
+Sorted Array,5,Selection Sort,10,125
+Sorted Array,5,Insertion Sort,4,42
+Inverse Sorted Array,5,Heap Sort,12,166
+Inverse Sorted Array,5,Bubble Sort,10,125
+Inverse Sorted Array,5,Selection Sort,10,125
+Inverse Sorted Array,5,Insertion Sort,10,83
+Random Array,6,Heap Sort,17,291
+Random Array,6,Bubble Sort,15,208
+Random Array,6,Selection Sort,15,167
+Random Array,6,Insertion Sort,11,125
+Sorted Array,6,Heap Sort,14,83
+Sorted Array,6,Bubble Sort,15,84
+Sorted Array,6,Selection Sort,15,83
+Sorted Array,6,Insertion Sort,5,83
+Inverse Sorted Array,6,Heap Sort,16,208
+Inverse Sorted Array,6,Bubble Sort,15,166
+Inverse Sorted Array,6,Selection Sort,15,167
+Inverse Sorted Array,6,Insertion Sort,15,83
+Random Array,7,Heap Sort,21,250
+Random Array,7,Bubble Sort,21,209
+Random Array,7,Selection Sort,21,167
+Random Array,7,Insertion Sort,14,83
+Sorted Array,7,Heap Sort,18,209
+Sorted Array,7,Bubble Sort,21,125
+Sorted Array,7,Selection Sort,21,83
+Sorted Array,7,Insertion Sort,6,42
+Inverse Sorted Array,7,Heap Sort,21,291
+Inverse Sorted Array,7,Bubble Sort,21,208
+Inverse Sorted Array,7,Selection Sort,21,167
+Inverse Sorted Array,7,Insertion Sort,21,84
+Random Array,8,Heap Sort,25,375
+Random Array,8,Bubble Sort,28,250
+Random Array,8,Selection Sort,28,208
+Random Array,8,Insertion Sort,20,167
+Sorted Array,8,Heap Sort,24,209
+Sorted Array,8,Bubble Sort,28,125
+Sorted Array,8,Selection Sort,28,125
+Sorted Array,8,Insertion Sort,7,42
+Inverse Sorted Array,8,Heap Sort,27,375
+Inverse Sorted Array,8,Bubble Sort,28,166
+Inverse Sorted Array,8,Selection Sort,28,208
+Inverse Sorted Array,8,Insertion Sort,28,125
+Random Array,9,Heap Sort,30,375
+Random Array,9,Bubble Sort,36,334
+Random Array,9,Selection Sort,36,333
+Random Array,9,Insertion Sort,22,209
+Sorted Array,9,Heap Sort,30,292
+Sorted Array,9,Bubble Sort,36,208
+Sorted Array,9,Selection Sort,36,167
+Sorted Array,9,Insertion Sort,8,84
+Inverse Sorted Array,9,Heap Sort,35,250
+Inverse Sorted Array,9,Bubble Sort,36,167
+Inverse Sorted Array,9,Selection Sort,36,208
+Inverse Sorted Array,9,Insertion Sort,36,125
+Random Array,10,Heap Sort,41,375
+Random Array,10,Bubble Sort,45,291
+Random Array,10,Selection Sort,45,333
+Random Array,10,Insertion Sort,31,84
+Sorted Array,10,Heap Sort,35,291
+Sorted Array,10,Bubble Sort,45,125
+Sorted Array,10,Selection Sort,45,125
+Sorted Array,10,Insertion Sort,9,42
+Inverse Sorted Array,10,Heap Sort,41,333
+Inverse Sorted Array,10,Bubble Sort,45,208
+Inverse Sorted Array,10,Selection Sort,45,250
+Inverse Sorted Array,10,Insertion Sort,45,125
+Random Array,11,Heap Sort,43,458
+Random Array,11,Bubble Sort,55,417
+Random Array,11,Selection Sort,55,334
+Random Array,11,Insertion Sort,36,167
+Sorted Array,11,Heap Sort,39,334
+Sorted Array,11,Bubble Sort,55,208
+Sorted Array,11,Selection Sort,55,167
+Sorted Array,11,Insertion Sort,10,42
+Inverse Sorted Array,11,Heap Sort,49,417
+Inverse Sorted Array,11,Bubble Sort,55,292
+Inverse Sorted Array,11,Selection Sort,55,250
+Inverse Sorted Array,11,Insertion Sort,55,125
+Random Array,12,Heap Sort,51,458
+Random Array,12,Bubble Sort,66,334
+Random Array,12,Selection Sort,66,333
+Random Array,12,Insertion Sort,36,167
+Sorted Array,12,Heap Sort,47,375
+Sorted Array,12,Bubble Sort,66,166
+Sorted Array,12,Selection Sort,66,208
+Sorted Array,12,Insertion Sort,11,84
+Inverse Sorted Array,12,Heap Sort,55,667
+Inverse Sorted Array,12,Bubble Sort,66,292
+Inverse Sorted Array,12,Selection Sort,66,333
+Inverse Sorted Array,12,Insertion Sort,66,208
+Random Array,13,Heap Sort,59,625
+Random Array,13,Bubble Sort,78,500
+Random Array,13,Selection Sort,78,458
+Random Array,13,Insertion Sort,44,250
+Sorted Array,13,Heap Sort,55,542
+Sorted Array,13,Bubble Sort,78,209
+Sorted Array,13,Selection Sort,78,542
+Sorted Array,13,Insertion Sort,12,83
+Inverse Sorted Array,13,Heap Sort,63,10958
+Inverse Sorted Array,13,Bubble Sort,78,875
+Inverse Sorted Array,13,Selection Sort,78,666
+Inverse Sorted Array,13,Insertion Sort,78,583
+Random Array,14,Heap Sort,67,1125
+Random Array,14,Bubble Sort,91,916
+Random Array,14,Selection Sort,91,708
+Random Array,14,Insertion Sort,42,458
+Sorted Array,14,Heap Sort,61,1042
+Sorted Array,14,Bubble Sort,91,291
+Sorted Array,14,Selection Sort,91,292
+Sorted Array,14,Insertion Sort,13,83
+Inverse Sorted Array,14,Heap Sort,69,833
+Inverse Sorted Array,14,Bubble Sort,91,417
+Inverse Sorted Array,14,Selection Sort,91,459
+Inverse Sorted Array,14,Insertion Sort,91,292
+Random Array,15,Heap Sort,76,834
+Random Array,15,Bubble Sort,105,666
+Random Array,15,Selection Sort,105,792
+Random Array,15,Insertion Sort,58,459
+Sorted Array,15,Heap Sort,66,916
+Sorted Array,15,Bubble Sort,105,334
+Sorted Array,15,Selection Sort,105,250
+Sorted Array,15,Insertion Sort,14,41
+Inverse Sorted Array,15,Heap Sort,77,583
+Inverse Sorted Array,15,Bubble Sort,105,375
+Inverse Sorted Array,15,Selection Sort,105,459
+Inverse Sorted Array,15,Insertion Sort,105,250
+Random Array,16,Heap Sort,84,791
+Random Array,16,Bubble Sort,120,584
+Random Array,16,Selection Sort,120,584
+Random Array,16,Insertion Sort,54,292
+Sorted Array,16,Heap Sort,72,542
+Sorted Array,16,Bubble Sort,120,250
+Sorted Array,16,Selection Sort,120,291
+Sorted Array,16,Insertion Sort,15,42
+Inverse Sorted Array,16,Heap Sort,85,709
+Inverse Sorted Array,16,Bubble Sort,120,500
+Inverse Sorted Array,16,Selection Sort,120,459
+Inverse Sorted Array,16,Insertion Sort,120,292
+Random Array,17,Heap Sort,86,792
+Random Array,17,Bubble Sort,136,667
+Random Array,17,Selection Sort,136,583
+Random Array,17,Insertion Sort,50,250
+Sorted Array,17,Heap Sort,79,709
+Sorted Array,17,Bubble Sort,136,292
+Sorted Array,17,Selection Sort,136,292
+Sorted Array,17,Insertion Sort,16,83
+Inverse Sorted Array,17,Heap Sort,95,667
+Inverse Sorted Array,17,Bubble Sort,136,458
+Inverse Sorted Array,17,Selection Sort,136,500
+Inverse Sorted Array,17,Insertion Sort,136,250
+Random Array,18,Heap Sort,104,750
+Random Array,18,Bubble Sort,153,750
+Random Array,18,Selection Sort,153,541
+Random Array,18,Insertion Sort,70,292
+Sorted Array,18,Heap Sort,87,583
+Sorted Array,18,Bubble Sort,153,291
+Sorted Array,18,Selection Sort,153,250
+Sorted Array,18,Insertion Sort,17,41
+Inverse Sorted Array,18,Heap Sort,103,792
+Inverse Sorted Array,18,Bubble Sort,153,625
+Inverse Sorted Array,18,Selection Sort,153,625
+Inverse Sorted Array,18,Insertion Sort,153,417
+Random Array,19,Heap Sort,103,833
+Random Array,19,Bubble Sort,171,791
+Random Array,19,Selection Sort,171,708
+Random Array,19,Insertion Sort,76,291
+Sorted Array,19,Heap Sort,99,667
+Sorted Array,19,Bubble Sort,171,333
+Sorted Array,19,Selection Sort,171,291
+Sorted Array,19,Insertion Sort,18,42
+Inverse Sorted Array,19,Heap Sort,113,792
+Inverse Sorted Array,19,Bubble Sort,171,583
+Inverse Sorted Array,19,Selection Sort,171,458
+Inverse Sorted Array,19,Insertion Sort,171,291
+Random Array,20,Heap Sort,109,916
+Random Array,20,Bubble Sort,190,750
+Random Array,20,Selection Sort,190,666
+Random Array,20,Insertion Sort,66,333
+Sorted Array,20,Heap Sort,105,667
+Sorted Array,20,Bubble Sort,190,375
+Sorted Array,20,Selection Sort,190,333
+Sorted Array,20,Insertion Sort,19,42
+Inverse Sorted Array,20,Heap Sort,121,792
+Inverse Sorted Array,20,Bubble Sort,190,625
+Inverse Sorted Array,20,Selection Sort,190,542
+Inverse Sorted Array,20,Insertion Sort,190,375
+Random Array,21,Heap Sort,122,917
+Random Array,21,Bubble Sort,210,833
+Random Array,21,Selection Sort,210,834
+Random Array,21,Insertion Sort,72,333
+Sorted Array,21,Heap Sort,111,875
+Sorted Array,21,Bubble Sort,210,375
+Sorted Array,21,Selection Sort,210,417
+Sorted Array,21,Insertion Sort,20,167
+Inverse Sorted Array,21,Heap Sort,131,875
+Inverse Sorted Array,21,Bubble Sort,210,750
+Inverse Sorted Array,21,Selection Sort,210,584
+Inverse Sorted Array,21,Insertion Sort,210,375
+Random Array,22,Heap Sort,132,1084
+Random Array,22,Bubble Sort,231,1000
+Random Array,22,Selection Sort,231,833
+Random Array,22,Insertion Sort,93,333
+Sorted Array,22,Heap Sort,118,875
+Sorted Array,22,Bubble Sort,231,416
+Sorted Array,22,Selection Sort,231,375
+Sorted Array,22,Insertion Sort,21,83
+Inverse Sorted Array,22,Heap Sort,139,875
+Inverse Sorted Array,22,Bubble Sort,231,750
+Inverse Sorted Array,22,Selection Sort,231,750
+Inverse Sorted Array,22,Insertion Sort,231,459
+Random Array,23,Heap Sort,135,1208
+Random Array,23,Bubble Sort,253,1209
+Random Array,23,Selection Sort,253,1083
+Random Array,23,Insertion Sort,81,709
+Sorted Array,23,Heap Sort,130,1917
+Sorted Array,23,Bubble Sort,253,1042
+Sorted Array,23,Selection Sort,253,458
+Sorted Array,23,Insertion Sort,22,84
+Inverse Sorted Array,23,Heap Sort,149,16084
+Inverse Sorted Array,23,Bubble Sort,253,917
+Inverse Sorted Array,23,Selection Sort,253,667
+Inverse Sorted Array,23,Insertion Sort,253,459
+Random Array,24,Heap Sort,145,2625
+Random Array,24,Bubble Sort,276,2375
+Random Array,24,Selection Sort,276,1125
+Random Array,24,Insertion Sort,104,458
+Sorted Array,24,Heap Sort,137,1208
+Sorted Array,24,Bubble Sort,276,583
+Sorted Array,24,Selection Sort,276,667
+Sorted Array,24,Insertion Sort,23,125
+Inverse Sorted Array,24,Heap Sort,157,1333
+Inverse Sorted Array,24,Bubble Sort,276,1083
+Inverse Sorted Array,24,Selection Sort,276,958
+Inverse Sorted Array,24,Insertion Sort,276,625
+Random Array,25,Heap Sort,156,1334
+Random Array,25,Bubble Sort,300,1292
+Random Array,25,Selection Sort,300,1041
+Random Array,25,Insertion Sort,91,375
+Sorted Array,25,Heap Sort,143,1042
+Sorted Array,25,Bubble Sort,300,500
+Sorted Array,25,Selection Sort,300,500
+Sorted Array,25,Insertion Sort,24,83
+Inverse Sorted Array,25,Heap Sort,167,1208
+Inverse Sorted Array,25,Bubble Sort,300,1167
+Inverse Sorted Array,25,Selection Sort,300,833
+Inverse Sorted Array,25,Insertion Sort,300,625
+Random Array,26,Heap Sort,164,1250
+Random Array,26,Bubble Sort,325,1208
+Random Array,26,Selection Sort,325,1334
+Random Array,26,Insertion Sort,110,417
+Sorted Array,26,Heap Sort,150,958
+Sorted Array,26,Bubble Sort,325,542
+Sorted Array,26,Selection Sort,325,541
+Sorted Array,26,Insertion Sort,25,125
+Inverse Sorted Array,26,Heap Sort,175,1042
+Inverse Sorted Array,26,Bubble Sort,325,1000
+Inverse Sorted Array,26,Selection Sort,325,750
+Inverse Sorted Array,26,Insertion Sort,325,542
+Random Array,27,Heap Sort,173,1333
+Random Array,27,Bubble Sort,351,1208
+Random Array,27,Selection Sort,351,1125
+Random Array,27,Insertion Sort,112,375
+Sorted Array,27,Heap Sort,161,1042
+Sorted Array,27,Bubble Sort,351,542
+Sorted Array,27,Selection Sort,351,584
+Sorted Array,27,Insertion Sort,26,42
+Inverse Sorted Array,27,Heap Sort,185,1125
+Inverse Sorted Array,27,Bubble Sort,351,1042
+Inverse Sorted Array,27,Selection Sort,351,875
+Inverse Sorted Array,27,Insertion Sort,351,583
+Random Array,28,Heap Sort,182,1417
+Random Array,28,Bubble Sort,378,1292
+Random Array,28,Selection Sort,378,1250
+Random Array,28,Insertion Sort,120,459
+Sorted Array,28,Heap Sort,171,1083
+Sorted Array,28,Bubble Sort,378,583
+Sorted Array,28,Selection Sort,378,584
+Sorted Array,28,Insertion Sort,27,84
+Inverse Sorted Array,28,Heap Sort,193,1042
+Inverse Sorted Array,28,Bubble Sort,378,1125
+Inverse Sorted Array,28,Selection Sort,378,833
+Inverse Sorted Array,28,Insertion Sort,378,584
+Random Array,29,Heap Sort,191,1416
+Random Array,29,Bubble Sort,406,1375
+Random Array,29,Selection Sort,406,1167
+Random Array,29,Insertion Sort,136,458
+Sorted Array,29,Heap Sort,176,1042
+Sorted Array,29,Bubble Sort,406,625
+Sorted Array,29,Selection Sort,406,667
+Sorted Array,29,Insertion Sort,28,84
+Inverse Sorted Array,29,Heap Sort,203,1042
+Inverse Sorted Array,29,Bubble Sort,406,1208
+Inverse Sorted Array,29,Selection Sort,406,833
+Inverse Sorted Array,29,Insertion Sort,406,625
+Random Array,30,Heap Sort,201,1458
+Random Array,30,Bubble Sort,435,1542
+Random Array,30,Selection Sort,435,1166
+Random Array,30,Insertion Sort,155,458
+Sorted Array,30,Heap Sort,188,1125
+Sorted Array,30,Bubble Sort,435,666
+Sorted Array,30,Selection Sort,435,708
+Sorted Array,30,Insertion Sort,29,84
+Inverse Sorted Array,30,Heap Sort,211,1083
+Inverse Sorted Array,30,Bubble Sort,435,1500
+Inverse Sorted Array,30,Selection Sort,435,917
+Inverse Sorted Array,30,Insertion Sort,435,625
